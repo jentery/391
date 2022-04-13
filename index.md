@@ -15,9 +15,9 @@ We should probably begin by addressing the very notion of "genre." What is it? H
 
 ## Metafiction
 
-What's metafiction? How does it behave? How does it correspond with the "silent protagonist," "skeuomorphism," and the use of voice-over? Metafiction is also a great opportunity to talk about interfaces. 
+What's metafiction? How does it behave? How does it correspond with role-playing, "skeuomorphism," the "fourth wall," and even the use of voice-over? Metafiction will be a great opportunity for us to talk about interfaces ("HUDs"). 
 
-Examples: *The Stanley Parable* and *Her Story* 
+Examples: *The Stanley Parable*, *OFF*, *Metal Gear Solid*, and *Her Story* 
 
 ## Fantasy 
 
@@ -27,7 +27,7 @@ Examples: *Wildermyth* and *Legend of Zelda: Breath of the Wild*
 
 ## Science Fiction 
 
-What's science fiction? How does it behave? How does it correspond with forms of transport or travel? We'll return to character customization and worldbuilding, too. 
+What's science fiction? How does it behave? How does it correspond with forms of transport and travel? We'll return to character customization and worldbuilding, too. 
 
 Examples: *Universal Paperclips*, *Portal 2*, and *Eliza* 
 
@@ -37,21 +37,23 @@ What's mystery? How does it behave? How does it correspond with "environmental s
 
 Examples: *Return of the Obra Dinn* and *Overboard* 
 
-## Adventure 
+## Action and Adventure 
 
-What's adventure? How does it behave? How does it correspond with "quick-time events," "easter eggs," and the use of platforms? 
+What are action and adventure? How does it behave? How does it correspond with "silent protagonist," "quick-time events," "easter eggs," "pacifist mode," and the use of platforms? We'll use adventure to talk about inventory 
 
 Examples: *Chicory: A Colorful Tale*, *Hollow Knight*, and *Outer Wilds* 
 
 ## Horror 
 
-acousmatic sound
+acousmatic sound. Horror is also an excellent genre for considerations of views and perspectives (first-person, second-person, third-person, isometric). 
 
 ## Western 
 
 ## Gothic 
 
-Examples: *Elden Ring* and *Limbo* 
+What's the Gothic? How does it behave? How does it correspond with ? We'll also engage the Gothic through questions of agency, including player choices and interactions with NPCs. 
+
+Examples: *Elden Ring*, *Sunless Sea*, and *Limbo* 
 
 ## Romance 
 
@@ -61,7 +63,7 @@ Examples: *Mass Effect*,
 
 ## Comedy
 
-## Historical Fiction 
+## Simulation 
 
 simulation, fog of war 
 
