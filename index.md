@@ -5,9 +5,9 @@ Taught by Jentery Sayers (he / him / his; jentery@uvic.ca)
 
 *This outline is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
 
-Please select a game or interactive fiction to study for the entire term. No worries. You may change your selection at any point, if you'd like. 
+Please select two games or works of interactive fiction to study for the entire term. No worries. You may change your selections as the term unfolds. You are also more than welcome to pick works from the examples listed below. 
 
-Once each of us (including me!) selects a particular work, as a class we will assess how the mechanics of play in games and interactive fiction correspond with established storytelling genres. From there, we should be able to explain (to people who are not in this class) why genre matters when we not only analyze games and interactive fictiona but also experience them. 
+Once each of us (including me!) selects our particular works, as a class we will assess how the mechanics of play in games and interactive fiction correspond with established storytelling genres. From there, we should be able to explain (to people who are not in this class) why genre matters when we not only *analyze* games and interactive fiction but also *experience* them. 
 
 ## What Are Genres? 
 
@@ -17,7 +17,7 @@ We should probably begin by addressing the very notion of "genre." What is it? H
 
 What's metafiction? How does it behave? How does it correspond with role-playing, "skeuomorphism," the "fourth wall," and even the use of voice-over? Metafiction will be a great opportunity for us to talk about interfaces ("HUDs"). 
 
-Examples: *The Stanley Parable*, *OFF*, *Metal Gear Solid*, *Inscryption*, and *Her Story* 
+Examples: *The Stanley Parable*, *OFF*, *Metal Gear Solid*, and *Her Story* 
 
 ## Fantasy 
 
@@ -29,7 +29,7 @@ Examples: *Wildermyth*, *Final Fantasy*, *Slay the Spire*, and *Legend of Zelda*
 
 What's science fiction? How does it behave? How does it correspond with forms of transport and travel? With magic and imaginary tech? We'll return to character customization and worldbuilding, too, and we'll talk more about movement in games and interactive fiction. 
 
-Examples: *Universal Paperclips*, *Portal 2*, *80 Days*, and *Eliza* 
+Examples: *Universal Paperclips*, *Portal 2*, *80 Days*, *Into the Breach*, and *Eliza* 
 
 ## Mystery 
 
@@ -39,40 +39,42 @@ Examples: *Return of the Obra Dinn*, *Disco Elysium*, *What Remains of Edith Fin
 
 ## Action and Adventure 
 
-What are action and adventure? How do they behave? How do they correspond with the "silent protagonist," "pacifist modes," and the use of platforms? We'll talk about inventory management and "ludonarrative dissonance," too.
+What are action and adventure? How do they behave? How do they correspond with the "silent protagonist," "pacifist modes," "loops," flow, and the use of platforms? We'll talk about inventory management and "ludonarrative dissonance," too.
 
 Examples: *Chicory: A Colorful Tale*, *Hollow Knight*, and *Outer Wilds* 
 
 ## Horror 
 
-What's horror? How does it behave? How do they correspond with the use of "acousmatic sound," ambiences, photorealism, and "quick time events"? Horror will also be a chance for us to consider the design of views and perspectives (first-person, second-person, third-person, isometric). 
+What's horror? How does it behave? How does it correspond with the use of "acousmatic sound," ambiences, photorealism, and "quick time events"? Horror will also be a chance for us to consider cameras and the design of views (first-person, second-person, third-person, and isometric). 
 
-Examples: *Resident Evil*, *Bogeyman*, 
+Examples: *Resident Evil*, *Bogeyman*, *Amnesia*, and *Detention* 
 
 ## Gothic 
 
-What's the Gothic? How does it behave? How does it correspond with ? We'll also engage the Gothic through questions of agency, including player choices 
+What's the Gothic? How does it behave? How does it correspond with the "cruel teacher," the grotesque, architecture, and lighting? We'll also engage the Gothic through questions of agency, including choice, fear, and the ludicrous. 
 
-Examples: *Elden Ring*, *Sunless Sea*, and *Limbo* 
+Examples: *Elden Ring*, *Sunless Sea*, *Castlevania*, and *Limbo* 
 
 ## Historical Fiction  
 
-simulation, strategy, and resource management? 
+What's historical fiction? How does it behave? How does it correspond with simulation, strategy, record-keeping, memoir, and "resource management"? Historical fiction will also create a space for us to consider the roles of hegemony and educational "backdrops" in games. 
 
-Examples: *Civilization*, 
+Examples: *Civilization*, *Assassin’s Creed*, *The Oregon Trail*, and *Sunset* 
 
 ## Romance 
 
-What's romance? How does it behave? 
+What's romance? How does it behave? How does it correspond with dialogue options, gifting, dating sims, and the inclusion of "minigames"? Romance will be an opportunity for us to revisit a lot of the norms or assumptions at play in other genres, such as fantasy, mystery, adventure, and the Gothic. 
 
-Examples: *Mass Effect*, *Birdland*, 
+Examples: *Mass Effect*, *Birdland*, *Hades*, *Dream Daddy*, *Coffee Talk*, and *Stardew Valley* 
 
 ## Comedy
 
+Wait . . . comedy? In the context of games and interactive fiction? How does it behave? How does it correspond with surprise, failure, modding, banter, and "making your own fun"? Comedy will also be one of those opportunities to revisit our discussions this term. 
 
-
-## Memoir 
+Examples: *WarioWare*, *The Sims*, and *Marvel's Guardians of the Galaxy*
 
 ## What Genre? 
 
-Examples: *Howling Dogs*, *Unpacking*, and 
+Games and interactive fiction are often associated with their own genres: Metroidvania, Soulslike, roguelike, 4X, sandbox, idle, and cozy games, for instance. But we'll end this course with a discussion of when and why particular works seem to resist genrefication. 
+
+Examples: *Howling Dogs*, *Unpacking*, *Inscryption*, *Psychonauts 2*, and *Umurangi Generation* 
