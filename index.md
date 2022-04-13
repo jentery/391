@@ -1,4 +1,4 @@
-An undergraduate course for 40 students  
+Studies in genre intended for 40 students  
 English 391 | Spring 2023 at UVic  
 TWF, 11:30am - 12:20pm    
 Taught by Jentery Sayers (he / him / his; jentery@uvic.ca)    
