@@ -1,6 +1,9 @@
-# Games and Interactive Fiction: Studies in Genre (DRAFT) 
-English 391, Spring 2023 at UVic
-Jentery Sayers, instructor 
+An undergraduate course for 40 students  
+English 391 | Spring 2023 at UVic  
+TWF, 11:30am - 12:20pm    
+Taught by Jentery Sayers (he / him / his; jentery@uvic.ca)    
+
+*This outline is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
 
 Please select a game or interactive fiction to study for the entire term. No worries. You may change your selection at any point, if you'd like. 
 
@@ -23,8 +26,6 @@ What's fantasy? How does it behave? How does it correspond with turn-based tacti
 Example: *Wildermyth* 
 
 ## Science Fiction 
-
-
 
 ## Mystery 
 
