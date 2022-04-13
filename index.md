@@ -1,5 +1,6 @@
-# Games and Interactive Fiction: Studies in Genre
-English 391, Spring 2023
+# Games and Interactive Fiction: Studies in Genre (DRAFT) 
+English 391, Spring 2023 at UVic
+Jentery Sayers, instructor 
 
 Please select a game or interactive fiction to study for the entire term. No worries. You may change your selection at any point, if you'd like. 
 
@@ -11,15 +12,23 @@ We should probably begin by addressing the very notion of "genre." What is it? H
 
 ## Metafiction
 
-What's metafiction? How does it correspond with the 
+What's metafiction? How does it behave? How does it correspond with the "silent protagonist" and the use of voice-over? 
 
-## Romance 
+Example: *The Stanley Parable* 
 
 ## Fantasy 
 
-## Mystery 
+What's fantasy? How does it behave? How does it correspond with turn-based tactics, character customization, and the use of maps? 
+
+Example: *Wildermyth* 
 
 ## Science Fiction 
+
+
+
+## Mystery 
+
+
 
 ## Adventure 
 
@@ -28,6 +37,10 @@ What's metafiction? How does it correspond with the
 ## Western 
 
 ## Gothic 
+
+## Romance 
+
+What's romance? How does it behave? 
 
 ## Comedy
 
