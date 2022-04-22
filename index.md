@@ -13,7 +13,7 @@ Once each of us (including me!) selects our particular works, we'll spend our we
 
 ## What Are Genres? 
 
-We should probably begin by addressing the very notion of "genre." What is it? How does it behave? How is it categorized according to conventions and audience expectations? What are "subject," "style," "period," and "writing" genres?
+We should probably begin by addressing the very notion of "genre." What is it? How does it behave? How is it categorized according to conventions and audience expectations? What are "subject," "style," "period," and "writing" genres? (On game genres, see Poole's list of nine in *Trigger Happy* from 2000 as well as Wolf's list of 42 in *The Medium of the Video Game* from 2001. See also https://journals.sfu.ca/loading/index.php/loading/article/view/67.) 
 
 Now, let's consider ten different genres. This list is by no means exhaustive. It's a sample. 
 
